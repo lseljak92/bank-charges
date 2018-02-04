@@ -1,5 +1,5 @@
 /*
- * Description: Program that computes and displays the bank's service fees for the month.
+ * Description: Program that computes and displays the bank's service fees for the month in C++ language.
  * File name: BankCharges.cpp
  *
  */
